@@ -1,0 +1,6 @@
+[23-Feb-2015 08:30:29 Etc/GMT] PHP Warning:  session_start(): The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in /home/sankalan/public_html/index.php on line 2
+[23-Feb-2015 08:30:29 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sankalan/public_html/index.php:2) in /home/sankalan/public_html/index.php on line 2
+[23-Feb-2015 08:30:29 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sankalan/public_html/index.php:2) in /home/sankalan/public_html/index.php on line 2
+[23-Feb-2015 08:30:33 Etc/GMT] PHP Warning:  session_start(): The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in /home/sankalan/public_html/index.php on line 2
+[23-Feb-2015 08:30:33 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/sankalan/public_html/index.php:2) in /home/sankalan/public_html/index.php on line 2
+[23-Feb-2015 08:30:33 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/sankalan/public_html/index.php:2) in /home/sankalan/public_html/index.php on line 2

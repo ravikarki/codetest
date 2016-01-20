@@ -1,0 +1,2 @@
+AuthName "images"
+AuthUserFile "/home2/sankalan/.htpasswds/public_html/images/passwd"
